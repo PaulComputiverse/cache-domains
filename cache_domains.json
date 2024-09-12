@@ -141,11 +141,16 @@
 			"name": "chocolatey",
 			"description": "CDN for chocolatey",
 			"domain_files": ["chocolatey.txt"]
-		},
+		}
 		{
 			"name": "ninite",
 			"description": "CDN for Ninite",
 			"domain_files": ["ninite.txt"]
+		},
+		{
+			"name": "linux",
+			"description": "Sources for linux packages",
+			"domain_files": ["linux.txt"]
 		}
 	]
 }

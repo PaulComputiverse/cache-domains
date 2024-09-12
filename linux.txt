@@ -1,0 +1,4 @@
+deb.debian.org
+archive.ubuntu.com
+security.ubuntu.com
+packages.linuxmint.com
