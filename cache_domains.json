@@ -125,7 +125,7 @@
 		{
 			"name": "adobe",
 			"description": "CDNs for adobe",
-			"domain_files": [".txt"]
+			"domain_files": ["adobe.txt"]
 		},
 		{
 			"name": "google",
