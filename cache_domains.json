@@ -138,11 +138,6 @@
 			"domain_files": ["mozilla.txt"]
 		},
 		{
-			"name": "chocolatey",
-			"description": "CDN for chocolatey",
-			"domain_files": ["chocolatey.txt"]
-		},
-		{
 			"name": "ninite",
 			"description": "CDN for Ninite",
 			"domain_files": ["ninite.txt"]
